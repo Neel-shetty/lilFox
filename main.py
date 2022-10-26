@@ -54,7 +54,7 @@ async def howto(ctx,*,question):
    
    
    
-client.run('ODAxNTUxMDgzNDcwMDYxNTY4.YAiUng.6Y7jMnuWk1NMpcPhpH50-Mt2iXY')
+client.run('token')
  
 
 
